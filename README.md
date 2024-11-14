@@ -1,4 +1,4 @@
-# My neovim linux configurations 
+# My linux neovim setup configs
 
 ![screenshot](pic.png)
 
