@@ -1,8 +1,8 @@
-#My neovim linux configurations 
+# My neovim linux configurations 
 
 ![screenshot](pic.png)
 
-## Terimabal colorscheme
+## debain linux Terminal theme
 [kde konsole : visiblue](https://store.kde.org/s/Opendesktop/p/1232065)
 
 
